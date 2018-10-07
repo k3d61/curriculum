@@ -1,0 +1,2 @@
+server
+make all strings empty after executinn of every command
