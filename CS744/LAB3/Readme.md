@@ -4,10 +4,15 @@ Server command
 
 Client command:
 ./client interactiv
+
 ./client batch sample
 
 For interactive:
+
 Hello>create key value_size value
+
 Hello>update key value_size vaue
+
 Hello>delete key
+
 Hello>read key
