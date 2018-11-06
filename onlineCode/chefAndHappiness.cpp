@@ -48,18 +48,25 @@ int main(){
 
 
 		int flag = 0;
-		for (int i = 2; i <= N; ++i){
-			int a = As[i-1].first;
-			int ai = As[i-1].second;
+		for (int i =1; i < N; ++i){
+			for (int j = i+1; j <= N; ++j){
+				
+				int a = As[i].first;
+				int ai = As[i].second;
 
-			int b = As[i].first;
-			int bi = As[i].second;
-			
-			// cout << endl; 
-			// cout << " --> "<< a << " " << b << " "  << endl;
-			// cout << " => "<< ai << " " << bi << " " <<  flag<<  endl;
-			if (( a == b) && ( Ai[bi] != 0 ) && (Ai[ai] != 0) )
-				flag = 1;
+				int b = As[j].first;
+				int bi = As[j].second;
+
+				
+				// cout << endl; 
+				// cout << " --> "<< a << " " << b << " "  << endl;
+				// cout << " => "<< ai << " " << bi << " " <<  flag<<  endl;
+				if (( a == b) && ( Ai[bi] != 0 ) && (Ai[ai] != 0) )
+					flag = 1;
+				else if ( a != b ){
+					i = j;
+				}
+			}	
 		}
 		
 		if (flag == 1)
