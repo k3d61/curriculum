@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.o  -o HRCodesSecond 

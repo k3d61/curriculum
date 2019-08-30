@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/Graph/travellingIsFun.cpp
+bits/stdc++.h
+-
+
