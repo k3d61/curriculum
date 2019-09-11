@@ -1,0 +1,6 @@
+--2019-09-11 02:16:51--  https://hr-testcases-us-east-1.s3.amazonaws.com/111617/input05.txt?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA
+Resolving hr-testcases-us-east-1.s3.amazonaws.com (hr-testcases-us-east-1.s3.amazonaws.com)... 52.217.39.132
+Connecting to hr-testcases-us-east-1.s3.amazonaws.com (hr-testcases-us-east-1.s3.amazonaws.com)|52.217.39.132|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2019-09-11 02:16:52 ERROR 403: Forbidden.
+

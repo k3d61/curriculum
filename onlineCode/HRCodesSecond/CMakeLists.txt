@@ -24,4 +24,10 @@ set(CMAKE_CXX_STANDARD 14)
 #add_executable(HRCodesSecond  UnOrganisedCodes/kickstart/StreetChecker.cpp )
 
 #add_executable(HRCodesSecond UnOrganisedCodes/Flipkart/maxCoins.cpp )
-add_executable(HRCodesSecond  Graph/travellingIsFun.cpp)
+# 1 add_executable(HRCodesSecond  UnOrganisedCodes/Flipkart/minimumArea.cpp "UnOrganisedCodes/Dijksta(BhagMilkhaBhag).cpp")
+# 2 add_executable(HRCodesSecond  Graph/travellingIsFun.cpp )
+# 3 add_executable(HRCodesSecond  UnOrganisedCodes/Flipkart/minimum-steps-reach-target-knight.cpp)
+add_executable(HRCodesSecond   "UnOrganisedCodes/Maximum average sum partition of an array .cpp")
+#add_executable(HRCodesSecond   "UnOrganisedCodes/Dijksta(BhagMilkhaBhag).cpp" )
+
+

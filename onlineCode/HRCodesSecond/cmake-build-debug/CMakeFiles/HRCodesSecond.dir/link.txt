@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.o  -o HRCodesSecond 
+/usr/bin/c++  -g   CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.o  -o HRCodesSecond 

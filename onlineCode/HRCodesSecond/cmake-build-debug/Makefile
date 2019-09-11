@@ -123,32 +123,32 @@ HRCodesSecond/fast:
 	$(MAKE) -f CMakeFiles/HRCodesSecond.dir/build.make CMakeFiles/HRCodesSecond.dir/build
 .PHONY : HRCodesSecond/fast
 
-Graph/travellingIsFun.o: Graph/travellingIsFun.cpp.o
+UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.o: UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.o
 
-.PHONY : Graph/travellingIsFun.o
+.PHONY : UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.o
 
 # target to build an object file
-Graph/travellingIsFun.cpp.o:
-	$(MAKE) -f CMakeFiles/HRCodesSecond.dir/build.make CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.o
-.PHONY : Graph/travellingIsFun.cpp.o
+UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.o:
+	$(MAKE) -f CMakeFiles/HRCodesSecond.dir/build.make CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.o
+.PHONY : UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.o
 
-Graph/travellingIsFun.i: Graph/travellingIsFun.cpp.i
+UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.i: UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.i
 
-.PHONY : Graph/travellingIsFun.i
+.PHONY : UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.i
 
 # target to preprocess a source file
-Graph/travellingIsFun.cpp.i:
-	$(MAKE) -f CMakeFiles/HRCodesSecond.dir/build.make CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.i
-.PHONY : Graph/travellingIsFun.cpp.i
+UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.i:
+	$(MAKE) -f CMakeFiles/HRCodesSecond.dir/build.make CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.i
+.PHONY : UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.i
 
-Graph/travellingIsFun.s: Graph/travellingIsFun.cpp.s
+UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.s: UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.s
 
-.PHONY : Graph/travellingIsFun.s
+.PHONY : UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.s
 
 # target to generate assembly for a file
-Graph/travellingIsFun.cpp.s:
-	$(MAKE) -f CMakeFiles/HRCodesSecond.dir/build.make CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.s
-.PHONY : Graph/travellingIsFun.cpp.s
+UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.s:
+	$(MAKE) -f CMakeFiles/HRCodesSecond.dir/build.make CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.s
+.PHONY : UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... HRCodesSecond"
 	@echo "... edit_cache"
-	@echo "... Graph/travellingIsFun.o"
-	@echo "... Graph/travellingIsFun.i"
-	@echo "... Graph/travellingIsFun.s"
+	@echo "... UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.o"
+	@echo "... UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.i"
+	@echo "... UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.s"
 .PHONY : help
 
 

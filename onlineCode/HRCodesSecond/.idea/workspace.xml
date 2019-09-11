@@ -15,46 +15,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9ee63a4-838d-4d2a-8b83-15d54ff61f5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../HackerRank/src/com/company/kickstarter/FotballTeamTraining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HackerRank/src/com/company/kickstarter/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HackerRank/src/com/company/kickstarter/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HackerRank/src/com/company/kickstarter/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HackerRank/src/com/company/kickstarter/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CPP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CPP/1_crepe_cart.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CPP/GoogleCodeJam2019_Q1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CPP/classTest.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CPP/classTest.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CPP/header.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CPP/vector_test.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/1-0-napsack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/construct-the-array.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/share-buy-sell-k-times.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/AStoryOfATree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/travellingIsFun.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/AlmostSorted.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/FindtheOddQuerylocked.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/Flipkart/maxCoins.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/GS/MinumumMeetingCost.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/General Algorithms/Sieve of Eratosthenes.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/GoogleKS.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/InstiTest2_BestDevisor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/MaximumPathSum .cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/Paytm/Count BST subtrees that lie in given range.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/Paytm/merging_intervals.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/SaveElectricity.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/TheGridSearch.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/combinations of strings that can be used to dial a number.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/kickstart/StreetChecker.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/kickstart/cherry_mesh.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/organizing-containers-of-balls.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CS695/Exercize2/syscall/syscall.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS695/Exercize2/syscall/syscall.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CS695/Exercize2/syscall/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS695/Exercize2/syscall/test.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HackerRank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HackerRank/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HackerRank/src/com/company/JavaStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../HackerRank/src/com/company/JavaStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/Dijksta(BhagMilkhaBhag).cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/Flipkart/minimum-steps-reach-target-knight.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/Flipkart/minimumArea.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnOrganisedCodes/Maximum average sum partition of an array .cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/HRCodesSecond" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/HRCodesSecond" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/HRCodesSecond.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/HRCodesSecond.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,25 +46,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="450">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UnOrganisedCodes/combinations of strings that can be used to dial a number.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="4" selection-end-line="23" />
-              <folding>
-                <element signature="e#248#263#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UnOrganisedCodes/Flipkart/maxCoins.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
@@ -99,7 +64,54 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnOrganisedCodes/Flipkart/minimumArea.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+              <folding>
+                <element signature="e#135#160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnOrganisedCodes/Dijksta(BhagMilkhaBhag).cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2625">
+              <caret line="175" selection-start-line="175" selection-end-line="175" />
+              <folding>
+                <element signature="e#129#145#0" expanded="true" />
+                <element signature="e#337#362#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UnOrganisedCodes/Maximum average sum partition of an array .cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+              <folding>
+                <element signature="e#153#170#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnOrganisedCodes/Flipkart/minimum-steps-reach-target-knight.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>printal</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -130,23 +142,50 @@
         <option value="$PROJECT_DIR$/UnOrganisedCodes/kickstart/StreetChecker.cpp" />
         <option value="$PROJECT_DIR$/UnOrganisedCodes/combinations of strings that can be used to dial a number.cpp" />
         <option value="$PROJECT_DIR$/UnOrganisedCodes/Flipkart/maxCoins.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Graph/travellingIsFun.cpp" />
+        <option value="$PROJECT_DIR$/UnOrganisedCodes/Flipkart/minimumArea.cpp" />
+        <option value="$PROJECT_DIR$/UnOrganisedCodes/Dijksta(BhagMilkhaBhag).cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/UnOrganisedCodes/Maximum average sum partition of an array .cpp" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="982" />
-    <option name="y" value="24" />
-    <option name="width" value="938" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="44" />
+    <option name="y" value="-11" />
+    <option name="width" value="1877" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HRCodesSecond" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HRCodesSecond" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HRCodesSecond" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HRCodesSecond" type="462c0819:PsiDirectoryNode" />
+              <item name="UnOrganisedCodes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HRCodesSecond" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HRCodesSecond" type="462c0819:PsiDirectoryNode" />
+              <item name="UnOrganisedCodes" type="462c0819:PsiDirectoryNode" />
+              <item name="Flipkart" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -154,7 +193,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -218,12 +257,24 @@
       <workItem from="1566911171684" duration="2676000" />
       <workItem from="1566968281563" duration="19039000" />
       <workItem from="1567055935480" duration="1783000" />
-      <workItem from="1567150354009" duration="564000" />
+      <workItem from="1567150354009" duration="2324000" />
+      <workItem from="1567171606783" duration="2179000" />
+      <workItem from="1567237362914" duration="681000" />
+      <workItem from="1567274507463" duration="868000" />
+      <workItem from="1567316343536" duration="17506000" />
+      <workItem from="1567405401187" duration="6305000" />
+      <workItem from="1567456999143" duration="3210000" />
+      <workItem from="1567495237546" duration="10005000" />
+      <workItem from="1567537378714" duration="268000" />
+      <workItem from="1567578794914" duration="3745000" />
+      <workItem from="1567602780059" duration="10352000" />
+      <workItem from="1567795599012" duration="2781000" />
+      <workItem from="1567838040895" duration="662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156349000" />
+    <option name="totallyTimeSpent" value="216671000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -235,9 +286,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="982" y="24" width="938" height="1056" extended-state="4" />
+    <frame x="44" y="-11" width="1877" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2264574" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2427556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -247,8 +299,8 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3291536" />
       <window_info anchor="bottom" id="Database Changes" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.16254036" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.26480085" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.15151516" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26436782" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="CMake" order="11" />
@@ -256,7 +308,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" x="1172" y="424" width="725" height="640" id="Run" order="4" visible="true" weight="0.33351558" />
+      <window_info anchor="right" x="1172" y="424" width="725" height="640" id="Run" order="4" weight="0.3860033" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2192455" />
@@ -443,10 +495,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/Graph/travellingIsFun.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="15">
+          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -460,10 +512,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/travellingIsFun.cpp">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+        <state relative-caret-position="450">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -473,6 +525,40 @@
           <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
           <folding>
             <element signature="e#243#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnOrganisedCodes/Flipkart/minimumArea.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          <folding>
+            <element signature="e#135#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnOrganisedCodes/Dijksta(BhagMilkhaBhag).cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+          <folding>
+            <element signature="e#129#145#0" expanded="true" />
+            <element signature="e#337#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnOrganisedCodes/Flipkart/minimum-steps-reach-target-knight.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnOrganisedCodes/Maximum average sum partition of an array .cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+          <folding>
+            <element signature="e#153#170#0" expanded="true" />
           </folding>
         </state>
       </provider>

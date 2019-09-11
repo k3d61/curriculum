@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/Graph/travellingIsFun.cpp" "/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.o"
+  "/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/UnOrganisedCodes/Maximum average sum partition of an array .cpp" "/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/cmake-build-debug/CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

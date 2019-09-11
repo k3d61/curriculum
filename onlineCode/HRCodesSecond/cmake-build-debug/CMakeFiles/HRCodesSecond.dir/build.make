@@ -57,27 +57,27 @@ include CMakeFiles/HRCodesSecond.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/HRCodesSecond.dir/flags.make
 
-CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.o: CMakeFiles/HRCodesSecond.dir/flags.make
-CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.o: ../Graph/travellingIsFun.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.o -c /media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/Graph/travellingIsFun.cpp
+CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.o: CMakeFiles/HRCodesSecond.dir/flags.make
+CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.o: ../UnOrganisedCodes/Maximum\ average\ sum\ partition\ of\ an\ array\ .cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.o -c "/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/UnOrganisedCodes/Maximum average sum partition of an array .cpp"
 
-CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/Graph/travellingIsFun.cpp > CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.i
+CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/UnOrganisedCodes/Maximum average sum partition of an array .cpp" > CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.i
 
-CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/Graph/travellingIsFun.cpp -o CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.s
+CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/UnOrganisedCodes/Maximum average sum partition of an array .cpp" -o CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.s
 
 # Object files for target HRCodesSecond
 HRCodesSecond_OBJECTS = \
-"CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.o"
+"CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.o"
 
 # External object files for target HRCodesSecond
 HRCodesSecond_EXTERNAL_OBJECTS =
 
-HRCodesSecond: CMakeFiles/HRCodesSecond.dir/Graph/travellingIsFun.cpp.o
+HRCodesSecond: CMakeFiles/HRCodesSecond.dir/UnOrganisedCodes/Maximum_average_sum_partition_of_an_array_.cpp.o
 HRCodesSecond: CMakeFiles/HRCodesSecond.dir/build.make
 HRCodesSecond: CMakeFiles/HRCodesSecond.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable HRCodesSecond"

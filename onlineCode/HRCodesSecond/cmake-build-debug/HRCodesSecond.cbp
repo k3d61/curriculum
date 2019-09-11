@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/Graph/travellingIsFun.cpp">
+		<Unit filename="/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/UnOrganisedCodes/Maximum average sum partition of an array .cpp">
 			<Option target="HRCodesSecond"/>
 		</Unit>
 		<Unit filename="/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/CMakeLists.txt">

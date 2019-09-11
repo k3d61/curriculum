@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/Graph/travellingIsFun.cpp
+/media/kedar/HD1/work/gitRepos/curriculum/onlineCode/HRCodesSecond/UnOrganisedCodes/Maximum average sum partition of an array .cpp
 bits/stdc++.h
+-
+vector
+-
+set
 -
 
