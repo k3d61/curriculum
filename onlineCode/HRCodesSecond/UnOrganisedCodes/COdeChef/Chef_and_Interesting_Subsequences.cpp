@@ -1,10 +1,25 @@
 //https://www.codechef.com/SEPT19B/problems/CHEFINSQ
-
+// TAG : combinatories 
 #include <bits/stdc++.h>
 #include <vector>
 
 using namespace std;
 
+int nCr(int n, int r){
+
+	if ( r > n) return 0;
+	if ( r*2 > n ) r = n-r;
+	if ( r == 0 ) return 1 ;
+
+	int sum = n;
+	for (int i = 2; i <= r; ++i)
+	{
+		sum *= ( n-i+1);
+		sum /= i;
+	}
+	return sum;
+
+}
 int solve(vector<int> &input, int k){
 
 	sort(input.begin(), input.end());
@@ -23,19 +38,10 @@ int solve(vector<int> &input, int k){
 	int numbers = count + place_count;
 
 	
-	int minr = place_count > numbers-place_count ? numbers-place_count : place_count;
-	float multi = 1.0;
-	// cout << "numbers = " << numbers << ", minr = " << minr<< endl;
-	for (int i = minr; i > 0 ; )
-	{
-		multi = multi * (numbers/i);
-		// cout << numbers << " " << i <<  " "<<multi <<  endl;
-		numbers--;
-		i--;
+	int ncr = nCr(numbers, place_count);
 
-	}
 	// cout << "multi = " << multi << endl;
-	return multi;
+	return ncr;
 }
 
 /*
