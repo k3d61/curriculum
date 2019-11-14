@@ -7,7 +7,8 @@ int n;
 long long INF = 1e7;
 vector<int> dp;
 // this is varient of coin change
-// it gives minimum coins needed to make that coin change
+// it gives minimum coins needed to make
+// that coin change
 
 int solve(int N){
 
