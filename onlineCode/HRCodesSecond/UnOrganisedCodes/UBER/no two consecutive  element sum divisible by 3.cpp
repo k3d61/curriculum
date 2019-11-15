@@ -30,11 +30,11 @@ using namespace std;
 
 void solve(  ){
 	int n; cin >> n;
-	// std::vector<int> v = {0,1,2,2,2,2,1,1,,2,2,0,0,0,0,0,0};
+
 	 std::vector<int> v(n);
 	 
 	 pout (  "\nin = ");
-	 
+
 	 int zero=0, one=0, two=0;
 	 for(int i = 0 ; i < n ; i++){
 	 	cin >> v[i];
@@ -47,8 +47,7 @@ void solve(  ){
 	 cout << endl;
 
 	 	 
-	 if(((n%2==0) && (ceil(n/2) < zero)) || ((n%2==1) && (ceil(n/2)+1 < zero)) ||
-	  (zero == 0 && one > 0 && two > 0) ){
+	 if(((ceil(n/2.0) < zero)) || (zero == 0 && one > 0 && two > 0) ){
 		cout << "-1" ;
 		pout ( endl << "-------------------------------------------");
 	  return;
@@ -90,13 +89,11 @@ void solve(  ){
 		while(one != 0 ){
 			ret.insert(it, 1);
 			it++;
-			// it++;
 			one--;
 		}
 		while(two != 0 ){
 			ret.insert(it, 2);
 			it++;
-			// it++;
 			two--;
 		}
 
